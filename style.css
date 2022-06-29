@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(214, 245, 202);
+    text-align: center;
+}
+button{
+    width: 18%;
+    text-align: left;
+    margin: auto;
+    margin-bottom: 2em;
+}
+h2{
+    color: rgb(8, 34, 18);
+    text-align: center;
+    margin: 2em;
+}
